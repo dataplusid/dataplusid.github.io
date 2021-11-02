@@ -2,7 +2,7 @@
 
 # Site settings
 title: dataplus.id               # used for the html title of every page
-desc: bercerita lewat data
+desc: dataplus.id membantumu dalam mengolah & menganalisis data.
 url: https://dataplus.id     # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:title/   # how should we display posts url
