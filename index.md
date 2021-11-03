@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-Dataplus.id adalah penyedia layanan pengolahan dan analisis data. Kami akan membantumu menemukan nilai-nilai yang terkandung dalam data milikmu. 
+Dataplus.id adalah penyedia layanan pengolahan dan analisis data. Kami akan membantumu mengungkap nilai-nilai yang tersembunyi dalam data yang kamu miliki. 
   
-Kenali kami lebih jauh melalui _postingan_ Instagram kami di [@dataplus.id](https://instagram.com/dataplus.id) atau melalui [tulisan-tulisan](https://dataplus.id/articles/) kami.
+Masih ragu? Tenang, kenali kami lebih dulu melalui _postingan_ Instagram kami di [@dataplus.id](https://instagram.com/dataplus.id) atau melalui [tulisan-tulisan](https://dataplus.id/articles/) kami.
 </div>
