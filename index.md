@@ -2,10 +2,30 @@
 layout: default
 ---
 
-<div class="lead pretty-links">
-dataplus.id adalah penyedia layanan pengolahan dan analisis data. [Layanan kami](https://dataplus.id/services/) tersedia untuk keperluan akademis, bisnis, hingga politik. 
-  
-Masih ragu? Tenang, kenali kami lebih dulu lewat _postingan_ Instagram di akun [@dataplus.id](https://instagram.com/dataplus.id) atau melalui [tulisan-tulisan](https://dataplus.id/articles/) kami. 
-  
-Jika sudah yakin, segera hubungi kami untuk menemukan makna tersembunyi dari data-data yang ada.
+<p>dataplus.id memberikan layanan pengolahan dan analisis data untuk berbagai macam kebutuhan mulai dari akademik, bisnis, hingga politik.</p>
+
+<div class="projects">
+  <div class="grid no-gutters">
+
+    <div class="unit one-third">
+      <div class="project">
+        <h4 class="project-title"><a href="sample-project/">data+ Academia</a></h4>
+        <p>dataplus.id memberikan pelayanan mulai dari pembimbingan cara mengolah data hingga analisis untuk keperluan akademis seperti skripsi, tugas, akhir, hingga tesis.</p>
+      </div>
+    </div>
+
+    <div class="unit one-third">
+      <div class="project">
+        <h4 class="project-title"><a href="sample-project/">data+ Business</a></h4>
+        <p>data+ Business membantu Anda mulai dari analisis pasar, pengolahan data bisnis, hingga analisis data bisnis agar dapat memenangkan persaingan yang kompetitif.</p>
+      </div>
+    </div>
+
+    <div class="unit one-third">
+      <div class="project">
+        <h4 class="project-title"><a href="sample-project/">data+ Politics</a></h4>
+        <p>Seberapa besar peluang Anda terpilih? Bagaimana strategi kampanye yang cocok dengan daerah pemilihan Anda? data+ Politics akan membantu Anda berdasarkan data.</p>
+      </div>
+    </div>
+  </div><!-- grid -->
 </div>
