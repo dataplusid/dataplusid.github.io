@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: page
+title: dataplus.id
+subtitle: Layanan Kami
+desc: dataplus.id memberikan layanan pengolahan dan analisis data akademik, bisnis, hingga politik.
 ---
 
 <p>dataplus.id memberikan layanan pengolahan dan analisis data untuk berbagai macam kebutuhan mulai dari akademik, bisnis, hingga politik.</p>
