@@ -25,6 +25,9 @@ paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf
 # Used to define the navigation menu items
 # > Title is the tile of the navigation item, url the url and desc is the tooltip
 navigation:
+  - title: Beranda
+    url: /
+    desc: Halaman depan dataplus.id
   - title: Artikel
     url: /articles/
     desc: Kumpulan artikel yang kami tulis
