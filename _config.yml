@@ -2,7 +2,7 @@
 
 # Site settings
 title: dataplus.id               # used for the html title of every page
-desc: dataplus.id adalah penyedia layanan pengolahan dan analisis data akademis, bisnis, hingga politik.
+desc: dataplus.id merupakan media online yang memadukan cerita dan analisis data.
 url: https://dataplus.id     # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:title/   # how should we display posts url
