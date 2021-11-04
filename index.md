@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-dataplus.id merupakan media online yang memadukan cerita dan data. 
+dataplus.id adalah media online yang memadukan cerita dan data. 
   
 Kami juga memberikan [layanan](/services) pengolahan dan analisis data untuk keperluan akademis dan bisnis.
   
